@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/freddyt53/Friend-Finder#readme",
   "dependencies": {
-    "body-parser": "^1.18.3"
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "path": "^0.12.7"
   }
 }
